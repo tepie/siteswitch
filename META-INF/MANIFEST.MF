@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: site-switch
+Bundle-SymbolicName: site-switch
+Bundle-Version: 1.0.0.qualifier
+Export-Package: siteswitch.config,
+ siteswitch.filter,
+ switchable.logic,
+ switchable.objects
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
