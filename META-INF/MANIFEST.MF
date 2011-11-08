@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
-Bundle-Name: site-switch
-Bundle-SymbolicName: site-switch
+Bundle-Name: siteswitch
+Bundle-SymbolicName: siteswitch
 Bundle-Version: 1.0.0.qualifier
 Export-Package: siteswitch.config,
  siteswitch.filter,
