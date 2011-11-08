@@ -26,7 +26,7 @@ runner.main();
 <script type="text/javascript">
 $(document).ready(function(e){
 	$.ajaxSetup({
-		url: "/site-switch/SwitchJsonResponse.jsp",
+		url: "/siteswitch/SwitchJsonResponse.jsp",
 		dataType : "json",
 		success : function(data){
 			if (console && console.log){
